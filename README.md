@@ -37,9 +37,9 @@ A modern, responsive, and user-friendly **event promotion & ticket sales landing
 
 ## 🖼️ Preview
 
-<img width="2240" height="1293" src="https://github.com/user-attachments/assets/77b5622b-3ed3-4b20-84fd-f066bab39a08" /> 
-<img width="2214" height="1178" src="https://github.com/user-attachments/assets/3231c59f-123d-4e6f-b571-5fd8ffe0f139" /> 
-<img width="2200" height="1105" src="https://github.com/user-attachments/assets/542dd67b-45f0-4c73-af47-b68e766bf9bf" />
+<img width="2240" height="1293" alt = "EventLandingPage" src="https://github.com/user-attachments/assets/77b5622b-3ed3-4b20-84fd-f066bab39a08" /> 
+<img width="2214" height="1178" alt = "EventLandingPage" src="https://github.com/user-attachments/assets/3231c59f-123d-4e6f-b571-5fd8ffe0f139" /> 
+<img width="2200" height="1105" alt = "EventLandingPage" src="https://github.com/user-attachments/assets/542dd67b-45f0-4c73-af47-b68e766bf9bf" />
 
 
 ## 🧪 Tested Scenarios
